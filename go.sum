@@ -1,0 +1,4 @@
+github.com/cloudflare/cfssl v0.0.0-20181213083726-b94e044bb51e h1:Qux+lbuMaRzkQyTdzgtz8MgzPtzmaPQy6DXmxpdxT3U=
+github.com/cloudflare/cfssl v0.0.0-20181213083726-b94e044bb51e/go.mod h1:yMWuSON2oQp+43nFtAV/uvKQIFpSPerB57DCt9t8sSA=
+github.com/gorilla/mux v1.7.0 h1:tOSd0UKHQd6urX6ApfOn4XdBMY6Sh1MfxV3kmaazO+U=
+github.com/gorilla/mux v1.7.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
